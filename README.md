@@ -1,4 +1,4 @@
-#godhack
+
                                 *It is not our responsibility to abuse this program*   
                                                 God Hack (linux)
                                          You can do it Msfvenom (backdoor)
